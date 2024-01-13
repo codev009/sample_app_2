@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorials sample application
+# Ruby on Rails sample application
 
 ## MIT License
 
